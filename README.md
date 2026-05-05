@@ -16,4 +16,4 @@ This project is an interactive Excel dashboard built to analyze sales performanc
 - Top 5 products by sales
 
 ## 📷 Dashboard Preview
-!(salesdashboard.png)
+![Dashboard](salesdashboard.png)
